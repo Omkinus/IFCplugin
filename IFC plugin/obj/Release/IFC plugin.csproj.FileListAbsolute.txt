@@ -12,3 +12,17 @@ C:\Users\User\source\repos\IFC plugin\obj\Release\IFC plugin.csproj.GenerateReso
 C:\Users\User\source\repos\IFC plugin\obj\Release\IFC plugin.exe
 C:\Users\User\source\repos\IFC plugin\obj\Release\IFC plugin.pdb
 C:\Users\User\source\repos\IFC plugin\bin\Release\IFC plugin.pdb
+C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\bin\Release\IFC plugin.exe.config
+C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\bin\Release\IFC plugin.exe
+C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\bin\Release\IFC plugin.pdb
+C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\obj\Release\IFC plugin.csprojAssemblyReference.cache
+C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\obj\Release\MainWindow.g.cs
+C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\obj\Release\App.g.cs
+C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\obj\Release\IFC plugin_MarkupCompile.cache
+C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\obj\Release\IFC plugin_MarkupCompile.lref
+C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\obj\Release\MainWindow.baml
+C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\obj\Release\IFC plugin.g.resources
+C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\obj\Release\IFC_plugin.Properties.Resources.resources
+C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\obj\Release\IFC plugin.csproj.GenerateResource.cache
+C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\obj\Release\IFC plugin.exe
+C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\obj\Release\IFC plugin.pdb
