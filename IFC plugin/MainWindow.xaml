@@ -5,13 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:IFC_plugin"
         mc:Ignorable="d"
-        Title="MainWindow" Height="365.5" Width="286.333" WindowStyle="None" Foreground="White">
+        Title="MainWindow" Height="299.521" Width="286.333" WindowStyle="None" Foreground="White">
     <Border x:Name="gridTotal" CornerRadius="20">
         <Grid RenderTransformOrigin="0.499,0.521">
             <Grid.RowDefinitions>
-                <RowDefinition Height="169*"/>
-                <RowDefinition Height="134*"/>
-                <RowDefinition Height="55*"/>
+                <RowDefinition Height="170*"/>
+                <RowDefinition Height="63*"/>
+                <RowDefinition Height="59*"/>
             </Grid.RowDefinitions>
             <Grid.OpacityMask>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
@@ -53,8 +53,8 @@
                     <ImageBrush ImageSource="images/outputpath.png"/>
                 </Button.Background>
             </Button>
-            <TextBox  x:Name ="outputfilenametextbox" BorderThickness="0,0,0,2" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="23" Margin="10,90,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="254" BorderBrush="#FFF7EC0A" FontSize="14" FontFamily="Candara" TextChanged="TextBox_TextChanged"/>
-            <TextBlock Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="17" Margin="10,67,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Output file name:" VerticalAlignment="Top" Width="207" Foreground="Black" FontSize="14" FontWeight="Bold" FontFamily="Microsoft YaHei Light"/>
+            <TextBox  x:Name ="outputfilenametextbox" BorderThickness="0,0,0,2" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="23" Margin="10,33,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="254" BorderBrush="#FFF7EC0A" FontSize="14" FontFamily="Candara" TextChanged="TextBox_TextChanged"/>
+            <TextBlock Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="17" Margin="10,10,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Output file name:" VerticalAlignment="Top" Width="207" Foreground="Black" FontSize="14" FontWeight="Bold" FontFamily="Microsoft YaHei Light"/>
             <TextBlock Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="33" TextWrapping="Wrap" VerticalAlignment="Top" Width="184" Foreground="Black" Text="IFCPlugin " FontWeight="Bold" FontSize="22" RenderTransformOrigin="0.56,0.525" FontFamily="Microsoft JhengHei Light" Margin="10,3,0,0"/>
             <TextBlock HorizontalAlignment="Left" Height="18" Margin="25,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60" Foreground="Black" Text="Input file:" RenderTransformOrigin="0.56,0.525" FontFamily="Microsoft YaHei UI Light" FontSize="14"/>
             <TextBlock HorizontalAlignment="Left" Height="18" Margin="74,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="96" Foreground="Black" Text="Output folder:" RenderTransformOrigin="0.5,0.5" Grid.Column="1" FontFamily="Microsoft YaHei UI Light" FontSize="14"/>
@@ -63,7 +63,7 @@
                     <ImageBrush ImageSource="images/close.png"/>
                 </Button.Background>
             </Button>
-            <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="112,46,-81,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" Width="159" Foreground="#FF959595" Text="Developed by ESD Solutions" FontSize="6"/>
+            <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="112,46,-78,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" Width="159" Foreground="#FF959595" Text="Developed by ESD Solutions" FontSize="6" Height="8"/>
 
 
 

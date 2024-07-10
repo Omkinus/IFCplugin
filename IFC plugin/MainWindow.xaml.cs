@@ -47,7 +47,6 @@ namespace IFC_plugin
                 System.Windows.MessageBox.Show("The path to the folder is not specified");
                 return;
             }
-           
 
                 System.IO.StreamReader streamReader;
                 streamReader = new System.IO.StreamReader(filepath);
@@ -78,9 +77,6 @@ namespace IFC_plugin
                     sw.Write(alltextformatted);
                     sw.Close();
                 }
-            
-
-              
         }
 
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
