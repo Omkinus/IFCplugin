@@ -14,7 +14,6 @@ C:\Users\User\source\repos\IFC plugin\obj\Debug\IFC plugin.pdb
 C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\bin\Debug\IFC plugin.exe.config
 C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\bin\Debug\IFC plugin.exe
 C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\bin\Debug\IFC plugin.pdb
-C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\obj\Debug\IFC plugin.csprojAssemblyReference.cache
 C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\obj\Debug\MainWindow.g.cs
 C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\obj\Debug\App.g.cs
 C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\obj\Debug\IFC plugin_MarkupCompile.cache
@@ -25,3 +24,5 @@ C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\obj\Debug\IFC_plugin.Properties
 C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\obj\Debug\IFC plugin.csproj.GenerateResource.cache
 C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\obj\Debug\IFC plugin.exe
 C:\Users\User\_teklaplugins\IFCplugin\IFC plugin\obj\Debug\IFC plugin.pdb
+c:\Users\User\_teklaplugins\IFCplugin\IFC plugin\obj\Debug\IFC plugin.csproj.AssemblyReference.cache
+c:\Users\User\_teklaplugins\IFCplugin\IFC plugin\obj\Debug\IFC plugin.csproj.CoreCompileInputs.cache
